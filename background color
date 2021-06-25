@@ -1,0 +1,11 @@
+<Html>   
+<Head>    
+<Title>   
+Change the background color using Bgcolor attribute 
+</Title>
+</Head>
+<Body bgcolor="blue"> 
+JavaTpoint   <br>
+
+</Body>
+</Html>
